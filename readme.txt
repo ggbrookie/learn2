@@ -1,2 +1,2 @@
-git is a good software.
-i like it very much.
+git is a distributed verson control system.
+gir is free software.
